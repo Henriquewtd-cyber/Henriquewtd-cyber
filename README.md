@@ -50,6 +50,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
+ 
+## Experiência
+ 
+### 💼 IME-Jr — Empresa Júnior do IME-USP
+**Desenvolvedor Backend**
+ 
+Membro ativo da empresa júnior do Instituto de Matemática e Estatística da USP. Atuo no desenvolvimento de projetos reais para clientes externos, aplicando boas práticas de engenharia de software em ambiente colaborativo e ágil.
+ 
+---
 
 ## Projetos
 
@@ -79,7 +88,7 @@
 ---
 
 ### 📁 Acervo Pet
-> Plataforma de acervo digital desenvolvida em parceria com a empresa júnior IMEJR. Sistema com autenticação e armazenamento de documentos utilizando banco relacional.
+> Plataforma de acervo digital desenvolvida em parceria com a empresa júnior IME-Jr. Sistema com autenticação e armazenamento de documentos utilizando banco relacional.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -91,7 +100,7 @@
 ---
 
 ### ⚙️ Automação Empresarial
-> Sistema interno de automação que envia atualizações semanais para membros da empresa. Orquestração de workflows com n8n e Google Cloud.
+> Sistema interno de automação que envia atualizações semanais para membros da empresa. Orquestração de workflows com n8n e Google Cloud em parceria com a IME-Jr.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
