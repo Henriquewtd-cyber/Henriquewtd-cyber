@@ -66,13 +66,13 @@ Permite organizar agendamentos, acompanhar receitas e despesas e visualizar info
 
 `Next.js` `Node.js` `TypeScript` `MongoDB`
 
-### Acervo PET
+### LACIS — ECA-USP
 
-[Repositório](https://github.com/acervopet/AcervoPet)
+[Repositório](https://github.com/Henriquewtd-cyber/Lacis2026)
 
-Acervo digital de documentos desenvolvido em equipe pela IME-Jr para o departamento de História da USP. Possui autenticação, gerenciamento de documentos e controle de acesso para diferentes tipos de usuários.
+Repositório do projeto de iniciação científica desenvolvido em equipe, em parceria com a Escola de Comunicações e Artes da USP (ECA-USP). A aplicação tem como objetivo organizar e disponibilizar informações sobre gestores municipais de cultura.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS`
+`Laravel` `PHP` `React` `TypeScript` `MySQL` `Tailwind CSS`
 
 ### Automação empresarial
 
